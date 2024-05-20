@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>122452281156-e59vru2pt9sielmbvsmbe9omjbnbd22p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.122452281156-e59vru2pt9sielmbvsmbe9omjbnbd22p</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>122452281156-ilom66p5k8nkpiclaonn6jd056k2es97.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCvLsOKYpb9Y_aFmOx5RdQklgEZCfFPQ8k</string>
+	<key>GCM_SENDER_ID</key>
+	<string>122452281156</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.detectFextFromImage</string>
+	<key>PROJECT_ID</key>
+	<string>authtutorial-c5bcc</string>
+	<key>STORAGE_BUCKET</key>
+	<string>authtutorial-c5bcc.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:122452281156:ios:26cd5e0949937bbe61f911</string>
+</dict>
+</plist>
